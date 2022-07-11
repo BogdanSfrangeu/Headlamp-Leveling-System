@@ -4,7 +4,7 @@ Table of contents:
 - MATLAB & Simulink Implementation
 - System Tests
 
-#1. MATLAB & Simulink Implementation
+# 1. MATLAB & Simulink Implementation
 
 **1. Mathematical Analysis regarding the calculation of the angle of the headlamp**
 
@@ -34,7 +34,7 @@ Table of contents:
 
 <img src="https://github.com/BogdanSfrangeu/Headlamp-Leveling-System/blob/01f6edee83493a83ee98dc2c774f72a7c84a5aac/Images/7.PNG" width=100% height=100%>
 
-#2. System Testing:
+# 2. System Testing:
 
 **Actuator/Stepper Motor Testing[Headlight Angle & Speed Testing]**
 
