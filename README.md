@@ -1,6 +1,6 @@
 # Headlamp-Leveling-System
 
-<img src="https://drive.google.com/file/d/1KN6R3GnvKwtKMtJcaZKaT764yb8gpEEU/view?usp=sharing" width=50% height=50%>
+<img src="https://imgur.com/xKoo4oC" width=50% height=50%>
 
 
 System Testing:
