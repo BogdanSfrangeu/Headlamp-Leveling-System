@@ -1,6 +1,6 @@
 # Headlamp-Leveling-System
 
-<img src="https://imgur.com/xKoo4oC" width=50% height=50%>
+<img src="https://github.com/BogdanSfrangeu/Headlamp-Leveling-System/blob/01f6edee83493a83ee98dc2c774f72a7c84a5aac/Images/1.PNG" width=50% height=50%>
 
 
 System Testing:
