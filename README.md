@@ -1,11 +1,40 @@
 # Headlamp-Leveling-System
 
-**1. MATLAB & Simulink Implementation**
+Table of contents:
+- MATLAB & Simulink Implementation
+- System Tests
+
+#1. MATLAB & Simulink Implementation
+
+**1. Mathematical Analysis regarding the calculation of the angle of the headlamp**
 
 <img src="https://github.com/BogdanSfrangeu/Headlamp-Leveling-System/blob/01f6edee83493a83ee98dc2c774f72a7c84a5aac/Images/1.PNG" width=100% height=100%>
 
+**2. Calculate the vehicle pitch based on acceleration, braking, load and vehicle speed.**
 
-**System Testing:**
+<img src="https://github.com/BogdanSfrangeu/Headlamp-Leveling-System/blob/01f6edee83493a83ee98dc2c774f72a7c84a5aac/Images/4.PNG" width=100% height=100%>
+
+**3. Use a PID Controller to get the same light setpoint distance.**
+
+<img src="https://github.com/BogdanSfrangeu/Headlamp-Leveling-System/blob/01f6edee83493a83ee98dc2c774f72a7c84a5aac/Images/5.PNG" width=100% height=100%>
+
+**4. Caculate headlamp angle based on vehicle pitch and light setpoint distance.**
+
+<img src="https://github.com/BogdanSfrangeu/Headlamp-Leveling-System/blob/01f6edee83493a83ee98dc2c774f72a7c84a5aac/Images/2.PNG" width=100% height=100%>
+
+**5. Full implementation of the Headlamp Leveling System Functionality.**
+
+<img src="https://github.com/BogdanSfrangeu/Headlamp-Leveling-System/blob/01f6edee83493a83ee98dc2c774f72a7c84a5aac/Images/3.PNG" width=100% height=100%>
+
+**6. Angle of headlamp light with the ground when braking or accelerating. [T1 = 0.2; T = 0.6].**
+
+<img src="https://github.com/BogdanSfrangeu/Headlamp-Leveling-System/blob/01f6edee83493a83ee98dc2c774f72a7c84a5aac/Images/6.PNG" width=100% height=100%>
+
+**7.  Headlamp light distance corelated to the setpoint distance.**
+
+<img src="https://github.com/BogdanSfrangeu/Headlamp-Leveling-System/blob/01f6edee83493a83ee98dc2c774f72a7c84a5aac/Images/7.PNG" width=100% height=100%>
+
+#2. System Testing:
 
 **Actuator/Stepper Motor Testing[Headlight Angle & Speed Testing]**
 
